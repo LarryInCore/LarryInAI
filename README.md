@@ -1,2 +1,3 @@
 # LarryInAI
-all effort in AI from 20180524
+all effort in AI from 20180524 add in hotfix
+add in hotfix
